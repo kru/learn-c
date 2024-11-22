@@ -11,7 +11,6 @@ int recurse(int n, int a, int b, int c) {
 }
 
 int find_nth_term(int n, int a, int b, int c) {
-    // random comment
     if (n <= 0) {
         return 0;
     }
